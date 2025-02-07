@@ -38,3 +38,5 @@ The Vehicle Parking Management System is designed to efficiently manage vehicle 
 <!-- - **Deployment:** AWS/GCP/DigitalOcean -->
 <!-- - **Other Tools:** Docker, GitHub Actions, WebSockets for real-time updates -->
 
+### Layout Image
+![Layout Image](./layout.png)
